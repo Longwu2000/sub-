@@ -1,6 +1,3 @@
-[submodule "submarines"]
-	path = submarines
-	url = ./submarines
 [submodule "my-git_try-"]
 	path = my-git_try-
 	url = https://github.com/Longwu2000/my-git_try-.git

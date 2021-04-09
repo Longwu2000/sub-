@@ -2,3 +2,5 @@ try to learn submodule
 git commit -m 'add what ever '
 mkdir submarines % create a folder in your current fodler called submarines 
 cd .. % go back to the onetop layer 
+git submoudle add ./ submarines % add all the files in submarines to submodule 
+uodate the surface @520
